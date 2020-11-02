@@ -1,5 +1,3 @@
-"""Program robiący operacje na liście"""
-
 import random
 from statistics import median
 
